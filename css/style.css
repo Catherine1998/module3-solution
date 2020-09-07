@@ -1,0 +1,56 @@
+/*Catherine Vasquez */
+*{
+
+    color: black;
+}
+body{
+    background-color: #c7b198;
+}
+/* estilos del nav */
+
+#header-nav {
+     background-color: #dfd3c3;
+     border-radius: 0;
+     border: 0;
+}
+
+.navbar-brand h1 {
+    font-family: 'Asap', sans-serif;
+    margin-top: 0;
+    font-size: 1.5em;
+    color: black;
+    padding-bottom: 5px;
+}
+
+.navbar-brand a:hover, .navbar-brand a:focus {
+    text-decoration: none;
+  }
+  
+  /* estilos de la lista */
+
+  #nav-list a{
+      text-align: center;
+      font-family: 'Asap', sans-serif;
+      color: black;
+  }
+
+  #nav-list a:hover{
+      background-color: #e7e7e7e0;
+  }
+
+  /* color del icono de barras */
+  .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+    border: 1px solid black;
+  }
+
+  /* estilos del container */
+
+  #cuerpo{
+    border: 1px solid black;
+	text-align: center;
+    padding: 5px;
+    margin: 15px;
+    margin-bottom: 5px;
+	background-color: #dfd3c3;
+  }
+  
